@@ -1,4 +1,4 @@
-<img style  src="https://tinyurl.com/2s93ht75">
+<img style  src="https://tinyurl.com/2s93ht75" width="800" height="500" >
 
 # Hello, I'm Harsh Kumar 👋
 
