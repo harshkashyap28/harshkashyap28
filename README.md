@@ -1,3 +1,5 @@
+<img style  src="https://tinyurl.com/2s93ht75">
+
 # Hello, I'm Harsh Kumar 👋
 
 **Data Enthusiast | Web Developer | AI Explorer**
@@ -6,10 +8,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 
 ### 🔭 Current Projects
 - **[Student Performance Prediction](https://github.com/harshkashyap28/Student-Performance-Prediction):** Using machine learning to predict student performance based on various features.
-
-### 🌱 What I'm Learning
-- Advanced Machine Learning Techniques
-- Full-stack Web Development with Angular and Flask 
 
 ### 💡 Collaboration Interests
 - Open Source Data Science Projects
