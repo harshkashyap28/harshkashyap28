@@ -43,15 +43,34 @@ I’m passionate about turning data into actionable insights and building scalab
 ## 🛠 Skills & Technologies
 
 <p align="center">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/></a>
+
+  <!-- Data -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="50"/>
+
+  <!-- BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"/>
+
+  <!-- Database -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/>
+
+  <!-- Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
+
+  <!-- Big Data -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="50"/>
+
+  <!-- Backend & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" style="background-color:white; padding:6px; border-radius:8px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
 </p>
 
 ---
@@ -59,11 +78,13 @@ I’m passionate about turning data into actionable insights and building scalab
 ## 📊 Tools & Technologies
 
 - **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Big Data:** Apache Spark, PySpark  
-- **Cloud:** AWS (S3, EC2 – Deployment Experience)  
-- **Analytics Tools:** Excel, Data Visualization  
-- **Databases:** MySQL  
+- **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **BI & Visualization:** Power BI, Excel, QuickSight  
+- **Big Data:** Apache Spark, PySpark, Spark SQL
+- **Cloud & AWS:** S3, EC2, IAM, Lambda, Athena, Glue, Redshift, CloudWatch, VPC  
+- **Databases:** MySQL, DynamoDB, Firebase  
+- **Backend & APIs:** Flask, REST APIs  
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code  
 
 ---
 
