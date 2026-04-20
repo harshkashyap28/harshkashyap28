@@ -1,37 +1,78 @@
-<p align="Center"><img style  src="https://tinyurl.com/2s93ht75" width="700" height="400" ></p>
+<p align="center">
+  <img src="https://www.image2url.com/r2/default/gifs/1776723447296-9cce715a-ae2f-4021-b9ab-073c5e603d48.gif" width="700"/>
+</p>
 
 # Hello, I'm Harsh Kumar 👋
 
-**Data Enthusiast | Web Developer | AI Explorer**
+**Data Analyst | Big Data Enthusiast | Business Analyst | AWS Practitioner**
 
-Welcome to my GitHub profile! I'm passionate about leveraging technology to solve real-world problems and create impactful solutions.
-
-### 🔭 Current Projects
-- **[Student Performance Prediction](https://github.com/harshkashyap28/Student-Performance-Prediction):** Using machine learning to predict student performance based on various features.
-
-### 💡 Collaboration Interests
-- Open Source Data Science Projects
-- Web Development Projects
-- AI and Machine Learning Innovations
-
-### 📫 How to Reach Me
-- **Email:** hk943102@gmail.com
-- **LinkedIn:** [Harsh Kumar](https://www.linkedin.com/in/harsh-kumar-90b421302/)
-
-### 💬 Ask Me About
-- Python & Flask Development
-- Data Science & Analytics
-- Machine Learning & AI
-
----
-## Skills & Technologies
-
-<p align="Center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+I’m passionate about turning data into actionable insights and building scalable data-driven solutions. I have hands-on experience in analytics, machine learning, and deploying applications on AWS.
 
 ---
 
-## Get in Touch!
+## 🔭 Current Focus
+- Data Analysis & Visualization  
+- Customer Behavior & Business Insights  
+- Big Data Processing (Spark, PySpark)  
+- Cloud-based Data Solutions (AWS)  
 
-Let's connect and build something amazing together. Feel free to reach out for collaboration, ideas, or just to say hello!
+---
 
-[![LinkedIn](https://www.linkedin.com/in/harsh-kumar-90b421302/
+## 💡 Areas of Interest
+- Data Analytics & Business Intelligence  
+- Big Data & Distributed Systems  
+- Machine Learning Applications  
+- Cloud & Scalable Systems  
+
+---
+
+## 📫 How to Reach Me
+- **Email:** hk943102@gmail.com  
+- **LinkedIn:** [Harsh Kumar](https://www.linkedin.com/in/harsh-kumar-90b421302/)  
+
+---
+
+## 💬 Ask Me About
+- Data Analysis & EDA  
+- Python for Data Science  
+- SQL & Data Querying  
+- Business Insights & Reporting  
+
+---
+
+## 🛠 Skills & Technologies
+
+<p align="center">
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 Tools & Technologies
+
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Big Data:** Apache Spark, PySpark  
+- **Cloud:** AWS (S3, EC2 – Deployment Experience)  
+- **Analytics Tools:** Excel, Data Visualization  
+- **Databases:** MySQL  
+
+---
+
+## 🤝 Get in Touch!
+
+Let’s connect and collaborate on data-driven projects and scalable solutions.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshkashyap28/">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
