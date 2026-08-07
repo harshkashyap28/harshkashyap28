@@ -77,14 +77,23 @@ I’m passionate about turning data into actionable insights and building scalab
 
 ## 📊 Tools & Technologies
 
-- **Languages:** Python, SQL  
-- **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **BI & Visualization:** Power BI, Excel, QuickSight  
-- **Big Data:** Apache Spark, PySpark, Spark SQL
-- **Cloud & AWS:** S3, EC2, IAM, Lambda, Athena, Glue, Redshift, CloudWatch, VPC  
-- **Databases:** MySQL, DynamoDB, Firebase  
-- **Backend & APIs:** Flask, REST APIs  
-- **Tools:** Git, GitHub, Jupyter Notebook, VS Code  
+- **Languages:** Python, SQL
+
+- **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, PySpark, Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization, KPI Tracking, Statistical Analysis
+
+- **BI & Visualization:** Power BI, Tableau, Advanced Excel (Pivot Tables, Power Query, VLOOKUP)
+
+- **Data Engineering:** Apache Spark, PySpark, Spark SQL, ETL/ELT Pipelines, Data Modeling, Data Warehousing, Distributed Computing
+
+- **Cloud & AWS:** Amazon S3, AWS Glue, Athena, Redshift, Lambda, EC2, IAM, VPC, Azure (Basics), Google Cloud Platform (Basics)
+
+- **Databases:** MySQL, PostgreSQL, DynamoDB, Firebase
+
+- **Backend & APIs:** Flask, REST APIs
+
+- **Tools:** Docker, Docker Compose, Git, GitHub, Jupyter Notebook, VS Code
+
+- **Other:** SAP (Basics), Prompt Engineering
 
 ---
 
