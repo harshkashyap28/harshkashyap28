@@ -18,14 +18,6 @@ Data Analyst with hands-on experience in ETL pipeline development, data analysis
 
 ---
 
-## 💼 Experience
-**Data Analyst Intern — Vserv Infosystem** (Mar 2025 – Sep 2025)
-- Built and maintained ETL pipelines with Python (Pandas, NumPy) processing 200K+ records, cutting manual data-cleaning time by 25%
-- Queried and analyzed sales & operations data with SQL and Pandas to surface actionable insights
-- Identified sales concentration patterns across regions to guide resource allocation
-- Developed interactive Power BI dashboards and 10+ visualizations for weekly stakeholder reporting
-
----
 
 ## 🚀 Featured Projects
 - **Telecom Customer Churn Analysis** — End-to-end churn analytics pipeline (Amazon S3, Python, SQL, Power BI) on 20K+ customer records. Identified key churn drivers (42.7% month-to-month vs 2.8% two-year contract churn; 45.3% e-check vs 16% auto-pay), segmented 2,292 high-risk customers, and estimated ~$139K monthly revenue at risk.
@@ -65,12 +57,6 @@ Data Analyst with hands-on experience in ETL pipeline development, data analysis
 
 ---
 
-## 📜 Certificates
-- **AWS Data Engineer Associate – Hands-On Training (Udemy):** Architected ETL pipelines (S3 → Glue → Redshift → Athena) for large-scale data ingestion and querying
-- **SQL – HackerRank:** Certified for solving advanced problems across window functions, subqueries, multi-table JOINs, aggregations, and query optimization
-- **Data Analyst Simulation – Deloitte:** Conducted EDA and statistical analysis on business datasets, delivering actionable visualizations for strategic decisions
-
----
 
 ## 💬 Ask Me About
 - Data Analysis & EDA
